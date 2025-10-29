@@ -50,7 +50,7 @@ I enjoy crafting clean UIs, writing efficient backend logic, and automating work
 ### 💼 Professional Experience
 
 **Software Engineer — SimpleWorks**  
-*June 2021 – Present | Pune, India*  
+*June 2021 – Present | Nagpur, India*  
 - Led migration of core modules from PHP/Smarty to React, improving performance by **30%**  
 - Integrated Node.js microservices, Redis caching, and WebSockets for real-time updates  
 - Reduced deployment time by **25%** via Docker & CI/CD (GitHub Actions)  

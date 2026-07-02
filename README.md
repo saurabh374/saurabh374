@@ -1,178 +1,109 @@
 <!-- Profile README for @saurabh374 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Saurabh+Patil&animation=fadeIn&type=waving&color=0:0F172A,100:2563EB&height=130&fontColor=ffffff" alt="Saurabh Patil Banner" />
+  <img src="https://capsule-render.vercel.app/api?text=Hi+I'm+Saurabh+Patil!&animation=fadeIn&type=waving&color=0:7F00FF,100:E100FF&height=120" alt="Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Saurabh Patil 👋</h1>
-
+<h1 align="center">👋 Hey there, I'm Saurabh Patil</h1>
 <p align="center">
-  <b>Associate Solution Architect | Full-Stack Engineer</b><br/>
-  React.js • Node.js • NestJS • PHP • SQL • AWS • OCI • Microservices
+  Full-Stack Developer | React • Node.js • PHP | Cloud Enthusiast ☁️
 </p>
 
 <p align="center">
-  <a href="mailto:patilsaurabh1902@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://linkedin.com/in/iamsaurabhp">
-    <img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://saurabh374.github.io/saurabh-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge" />
-  </a>
+  <a href="mailto:patilsaurabh1902@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/iamsaurabhp"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://saurabh374.github.io/saurabh-portfolio"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## About
+### 👨‍💻 About Me
 
-I'm an **Associate Solution Architect at SimpleWorks** with **4+ years of experience** building and modernizing CRM platforms, APIs, backend systems, and web applications.
+I'm a passionate **Full-Stack Software Developer** with over **3 years of experience** building scalable web platforms and cloud-based solutions.  
+I enjoy crafting clean UIs, writing efficient backend logic, and automating workflows.
 
-My work sits between **solution architecture and hands-on engineering**. I work on translating business requirements into technical designs, implementation plans, APIs, database structures, reusable components, and deployment workflows.
-
-At SimpleWorks, I work on CRM modernization initiatives, including moving legacy PHP-based modules toward scalable **React.js** and **Node.js/NestJS** architecture. My focus areas include full-stack development, API design, database optimization, performance improvements, CI/CD, and maintainable system design.
-
-I also explore **AI-powered application development** through Oracle Cloud AI certifications, LangChain, and RAG concepts — as an additional capability, not my entire personality. GitHub already has enough bots.
-
----
-
-## Core Focus
-
-- Solution Architecture & System Design
-- CRM Modernization & Enterprise Web Applications
-- React.js, Next.js, Node.js, NestJS, PHP & JavaScript
-- REST API Design & Backend Architecture
-- SQL, MySQL & MSSQL Performance Optimization
-- Microservices, Redis & Scalable Application Design
-- AWS, Oracle Cloud Infrastructure & Cloud Deployments
-- CI/CD, GitHub Actions, Docker & Deployment Automation
-- Technical Documentation, Coding Standards & Architecture Reviews
+- 💼 Currently working at **SimpleWorks** on **SimpleCRM**, focusing on front-end migration to React and backend microservices  
+- 🧩 Skilled in designing REST APIs, CI/CD pipelines, and performance optimization  
+- ☁️ Interested in cloud architecture, DevOps automation, and scalable SaaS products  
+- 🎯 Goal: Keep learning, keep building, and keep improving!  
+- 📫 Reach me at **patilsaurabh1902@gmail.com**
 
 ---
 
-## Tech Stack
+### 🧰 Tech Stack
 
-| Area | Technologies |
-|---|---|
-| Frontend | React.js, Next.js, JavaScript, TypeScript, Redux, Tailwind CSS, MUI |
-| Backend | Node.js, NestJS, Express.js, PHP, CodeIgniter, REST APIs |
-| Databases | MySQL, MSSQL, MongoDB, Redis |
-| Cloud & DevOps | AWS, Oracle Cloud Infrastructure, Docker, GitHub Actions, Nginx, CI/CD |
-| Architecture | System Design, Microservices, API Design, Performance Optimization |
-| AI / Learning | OCI Generative AI, LangChain, RAG Concepts |
+| Frontend | Backend & DB | DevOps & Tools |
+|-----------|---------------|----------------|
+| React, Next.js, Redux, Tailwind, MUI | Node.js, Express, PHP, MySQL, MongoDB, Redis | Docker, AWS, GitHub Actions, Nginx, CI/CD, Sentry |
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="42" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" alt="AWS" />
 </p>
 
 ---
 
-## Professional Experience
+### 💼 Professional Experience
 
-### Associate Solution Architect — SimpleWorks  
-**Dec 2025 – Present | Navi Mumbai, India**
-
-- Design scalable application architecture for CRM and enterprise web platforms using **React.js, Node.js, NestJS, PHP, SQL, AWS, and Oracle Cloud Infrastructure**.
-- Translate business requirements into technical designs, implementation plans, and developer-ready tasks.
-- Work on modernization of legacy PHP modules into reusable services, maintainable frontend components, and scalable backend workflows.
-- Define API structure, database approach, integration patterns, and coding standards across project streams.
-- Collaborate with product, engineering, and QA teams to improve platform reliability, delivery speed, and maintainability.
-- Support technical decisions around microservices, performance optimization, deployment strategy, security, and scalability.
-
-### Software Engineer — SimpleWorks  
-**Apr 2024 – Nov 2025 | Navi Mumbai, India**
-
-- Contributed to CRM modernization by migrating legacy PHP-based modules toward **React.js** and **Node.js/NestJS** architecture.
-- Built and optimized frontend modules using reusable React components, state management, and modern UI patterns.
-- Developed backend services, REST APIs, business logic, and database workflows using **Node.js, NestJS, PHP, SQL, and Redis**.
-- Improved system performance through API optimization, SQL query tuning, caching strategies, and cleaner backend architecture.
-- Worked on deployment automation and CI/CD workflows using **GitHub Actions**, Docker, and cloud infrastructure.
-- Collaborated with cross-functional teams to deliver scalable, maintainable, and production-ready features.
+**Software Engineer — SimpleWorks**  
+*June 2021 – Present | Nagpur, India*  
+- Led migration of core modules from PHP/Smarty to React, improving performance by **30%**  
+- Integrated Node.js microservices, Redis caching, and WebSockets for real-time updates  
+- Reduced deployment time by **25%** via Docker & CI/CD (GitHub Actions)  
+- Built secure BFF APIs using AES-GCM encryption and session tokens  
 
 ---
 
-## Selected Projects
+### 🧪 Personal Projects
 
-### Jyotish Vishwakosh  
-**React.js • CodeIgniter • MySQL • AWS**
+#### 🌐 [Jyotish Vishwakosh](https://jyotishvishwakosh.com)
+A large-scale web app built with **React + CodeIgniter + AWS**, serving 10K+ users  
+- Designed UI in React with reusable components and client-side routing  
+- Backend powered by CodeIgniter with AWS hosting and cloud database integration  
 
-A large-scale astrology platform built with a React-based frontend and CodeIgniter backend.
-
-- Built reusable frontend components and responsive UI flows.
-- Integrated backend APIs with user-facing application modules.
-- Worked on cloud hosting, database integration, and performance-focused improvements.
-- Supported platform scalability for a growing user base.
-
-🔗 [Visit Project](https://jyotishvishwakosh.com)
+#### 📱 Jyotish Vishwakosh Mobile
+Flutter + Firebase-based app with push notifications, authentication, and analytics  
+- Achieved <2% crash rate  
+- Integrated Firebase Auth & Realtime Database for seamless sync  
 
 ---
 
-### Jyotish Vishwakosh Mobile  
-**Flutter • Firebase • Push Notifications • Analytics**
-
-Mobile application connected with the Jyotish Vishwakosh ecosystem.
-
-- Integrated Firebase authentication and realtime data sync.
-- Added push notification support and analytics tracking.
-- Improved application stability and user experience.
-- Maintained app performance across user flows.
-
----
-
-## Certifications
-
-- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-
----
-
-## GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh374&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=saurabh374&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh374&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=saurabh374&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh374&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh374&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
-## Currently Improving
+### 🧭 Quick Facts
 
-- Scalable CRM architecture
-- API performance and database optimization
-- Cloud deployment patterns
-- Microservices design
-- Practical AI integrations using OCI AI, LangChain, and RAG concepts
+- 🧠 I love solving complex UI and architecture problems  
+- 🌍 Currently learning more about **serverless** & **AWS CDK**  
+- 💬 Ask me about React, Node.js, CI/CD, or building scalable web apps  
+- 🕹️ Hobbies: Tech blogging, exploring new tools, and gaming 🎮  
 
 ---
 
-## Connect
+### 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:patilsaurabh1902@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
-  <a href="https://linkedin.com/in/iamsaurabhp">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://github.com/saurabh374">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
+  <a href="mailto:patilsaurabh1902@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/iamsaurabhp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/saurabh374"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building systems that are easier to scale, maintain, and debug — because future developers deserve peace too.</i>
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i> 😄
 </p>

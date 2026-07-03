@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey,+I'm+Saurabh+Patil!&animation=fadeIn&type=waving&color=0:7F00FF,100:E100FF&height=120&fontColor=ffffff&fontSize=36" alt="Banner" />
 </p>
 
-<h2 align="center">Associate Solution Architect · React & Node.js · AWS · DevOps</h2>
+<h2 align="center">Full-Stack Software Engineer · Cloud & GenAI Enthusiast · Software Designer</h2>
 
 <p align="center">
   <a href="mailto:patilsaurabh1902@gmail.com"><img src="https://img.shields.io/badge/Gmail-patilsaurabh1902-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -16,15 +16,15 @@
 
 ### 👨‍💻 About Me
 
-I'm an **Associate Solution Architect** with **4+ years of experience** designing, building, and scaling mission-critical web applications and APIs.
+I'm a **Full-Stack Software Engineer** with **4+ years of experience** designing, building, and scaling mission-critical web applications and APIs. I love crafting clean software, solving hard architecture problems, and exploring the intersection of **Cloud** and **Generative AI**.
 
-I led the architectural migration of **SimpleCRM** (flagship CRM at SimpleWorks) from PHP to React — **75% of all modules**, reducing page-load times by **30%** and API latency by **40%**. I thrive at the intersection of product engineering, cloud infrastructure, and developer productivity.
+I led the architectural migration of **SimpleCRM** (flagship CRM at SimpleWorks) from PHP to React — **75% of all modules**, reducing page-load times by **30%** and API latency by **40%**.
 
-- 🏢 **Associate Solution Architect** at **SimpleWorks**, Nagpur *(Apr 2024 – Present)*
+- 💻 **Software Engineer** at **SimpleWorks**, Nagpur *(Apr 2022 – Present)*
 - ⚡ Expert in **React, Next.js, Node.js, PHP, AWS, Docker, Redis, RabbitMQ**
-- 🏗️ Passionate about **microservices**, **BFF architecture**, and **distributed systems**
-- ☁️ AWS Certified Solutions Architect – Associate | Oracle OCI 2025 GenAI Professional
-- 🎯 Always exploring **GenAI integrations**, **serverless**, and **advanced system design**
+- 🏗️ Interested in **software design**, **microservices**, **distributed systems**, and **clean architecture**
+- 🤖 Passionate about **Cloud & GenAI** — AWS certified, Oracle OCI 2025 GenAI Professional
+- 🎯 Always building, always learning — serverless, LLMs, and advanced system design
 - 📫 Reach me at **patilsaurabh1902@gmail.com**
 
 ---
@@ -123,12 +123,13 @@ Large-scale astrology content platform serving **10K+ monthly users**, with Redi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh374&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saurabh374&theme=tokyonight" height="165" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=saurabh374&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh374&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabh374&theme=tokyonight" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabh374&theme=tokyonight" height="165" alt="Profile Details" />
 </p>
 
 ---

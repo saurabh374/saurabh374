@@ -1,109 +1,163 @@
 <!-- Profile README for @saurabh374 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi+I'm+Saurabh+Patil!&animation=fadeIn&type=waving&color=0:7F00FF,100:E100FF&height=120" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?text=Hey,+I'm+Saurabh+Patil!&animation=fadeIn&type=waving&color=0:7F00FF,100:E100FF&height=120&fontColor=ffffff&fontSize=36" alt="Banner" />
 </p>
 
-<h1 align="center">👋 Hey there, I'm Saurabh Patil</h1>
-<p align="center">
-  Full-Stack Developer | React • Node.js • PHP | Cloud Enthusiast ☁️
-</p>
+<h2 align="center">Associate Solution Architect · React & Node.js · AWS · DevOps</h2>
 
 <p align="center">
-  <a href="mailto:patilsaurabh1902@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/iamsaurabhp"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://saurabh374.github.io/saurabh-portfolio"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:patilsaurabh1902@gmail.com"><img src="https://img.shields.io/badge/Gmail-patilsaurabh1902-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/iamsaurabhp"><img src="https://img.shields.io/badge/LinkedIn-iamsaurabhp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://saurabh374.github.io"><img src="https://img.shields.io/badge/Portfolio-saurabh374.github.io-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Software Developer** with over **3 years of experience** building scalable web platforms and cloud-based solutions.  
-I enjoy crafting clean UIs, writing efficient backend logic, and automating workflows.
+I'm an **Associate Solution Architect** with **4+ years of experience** designing, building, and scaling mission-critical web applications and APIs.
 
-- 💼 Currently working at **SimpleWorks** on **SimpleCRM**, focusing on front-end migration to React and backend microservices  
-- 🧩 Skilled in designing REST APIs, CI/CD pipelines, and performance optimization  
-- ☁️ Interested in cloud architecture, DevOps automation, and scalable SaaS products  
-- 🎯 Goal: Keep learning, keep building, and keep improving!  
+I led the architectural migration of **SimpleCRM** (flagship CRM at SimpleWorks) from PHP to React — **75% of all modules**, reducing page-load times by **30%** and API latency by **40%**. I thrive at the intersection of product engineering, cloud infrastructure, and developer productivity.
+
+- 🏢 **Associate Solution Architect** at **SimpleWorks**, Nagpur *(Apr 2024 – Present)*
+- ⚡ Expert in **React, Next.js, Node.js, PHP, AWS, Docker, Redis, RabbitMQ**
+- 🏗️ Passionate about **microservices**, **BFF architecture**, and **distributed systems**
+- ☁️ AWS Certified Solutions Architect – Associate | Oracle OCI 2025 GenAI Professional
+- 🎯 Always exploring **GenAI integrations**, **serverless**, and **advanced system design**
 - 📫 Reach me at **patilsaurabh1902@gmail.com**
 
 ---
 
 ### 🧰 Tech Stack
 
-| Frontend | Backend & DB | DevOps & Tools |
-|-----------|---------------|----------------|
-| React, Next.js, Redux, Tailwind, MUI | Node.js, Express, PHP, MySQL, MongoDB, Redis | Docker, AWS, GitHub Actions, Nginx, CI/CD, Sentry |
+| Layer | Technologies |
+|---|---|
+| **Languages** | JavaScript (ES6+), TypeScript, PHP, SQL |
+| **Frontend** | React, Next.js, Redux, TanStack Query, Tailwind CSS, Material UI, styled-components |
+| **Backend** | Node.js, Express, REST APIs, WebSockets, Microservices, RabbitMQ |
+| **Databases** | MySQL, MongoDB, Redis |
+| **DevOps & Cloud** | AWS (EC2, S3, CloudFront), Docker, Nginx, GitHub Actions, Sentry, CI/CD |
+| **Testing** | Playwright, Apache JMeter |
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="38" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="38" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="38" title="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" title="AWS" />
 </p>
 
 ---
 
 ### 💼 Professional Experience
 
-**Software Engineer — SimpleWorks**  
-*June 2021 – Present | Nagpur, India*  
-- Led migration of core modules from PHP/Smarty to React, improving performance by **30%**  
-- Integrated Node.js microservices, Redis caching, and WebSockets for real-time updates  
-- Reduced deployment time by **25%** via Docker & CI/CD (GitHub Actions)  
-- Built secure BFF APIs using AES-GCM encryption and session tokens  
+#### 🏢 SimpleWorks — Nagpur, India *(Apr 2022 – Present)*
+
+**Associate Solution Architect** *(Apr 2024 – Present · Hybrid)*
+- 🚀 Led migration of **75% of SimpleCRM modules** from PHP/Smarty → React, cutting load times by **30%** and API latency by **40%**
+- 🏗️ Architected **Node.js microservices** with Redis caching & WebSockets, enabling real-time updates and horizontal scalability
+- 🔐 Strengthened security via **BFF (Backend-for-Frontend)** architecture, AES-GCM encryption, and HttpOnly secure cookies
+- 📈 Partnered with design/product teams to re-engineer workflows, contributing to a **30% sales increase** (validated via A/B testing)
+
+**Software Engineer** *(Apr 2022 – Apr 2024 · On-site)*
+- 🐳 Containerized services with **Docker**, migrated Apache → Nginx, and set up **AWS + GitHub Actions CI/CD**, reducing deployment time by **25%**
+- ✅ Expanded **Playwright** test suite to cover **60% of React modules**, reducing regression bugs
+- 🛠️ Provided L2/L3 production support and resolved escalated incidents for senior stakeholders
+
+#### 🖥️ Whiteboard Software — Freelance *(Feb 2020 – Apr 2021)*
+- Built **Jyotish Vishwakosh** web platform using React + CodeIgniter + AWS, scaling to **10,000+ monthly users**
+- Developed companion **Flutter mobile app** with Firebase Auth, FCM push notifications, and <2% crash rate
 
 ---
 
-### 🧪 Personal Projects
+### 🚀 Personal Projects
 
-#### 🌐 [Jyotish Vishwakosh](https://jyotishvishwakosh.com)
-A large-scale web app built with **React + CodeIgniter + AWS**, serving 10K+ users  
-- Designed UI in React with reusable components and client-side routing  
-- Backend powered by CodeIgniter with AWS hosting and cloud database integration  
+#### ⚡ [GTA VI Landing Page](https://saurabh374.github.io/gta_vi_landing/)
+> **Next.js · React · SEO · CSS Animations**
 
-#### 📱 Jyotish Vishwakosh Mobile
-Flutter + Firebase-based app with push notifications, authentication, and analytics  
-- Achieved <2% crash rate  
-- Integrated Firebase Auth & Realtime Database for seamless sync  
+A pixel-perfect, SEO-optimized fan landing page for GTA VI. Features performant CSS animations, lazy-loaded assets, and high Lighthouse scores.
+
+---
+
+#### 💬 Chatify — Real-Time Chat App
+> **Next.js · Node.js · MongoDB · Socket.IO · RabbitMQ · Redis**
+
+Full-featured microservices chat application with real-time messaging, typing indicators, OTP-based email auth, and image messaging.
+- Real-time layer via **Socket.IO** · Async queuing via **RabbitMQ** · Session management via **Redis + JWT**
+
+---
+
+#### 🔮 [Jyotish Vishwakosh](https://jyotishvishwakosh.com)
+> **React · CodeIgniter · AWS EC2 · CloudFront · Redis**
+
+Large-scale astrology content platform serving **10K+ monthly users**, with Redis-backed caching and automated CI/CD pipelines.
+
+---
+
+### 🎓 Education
+
+| Degree | Institution | Score |
+|---|---|---|
+| **MCA** – Master of Computer Applications | Shri Ramdeobaba College of Engineering & Management, Nagpur | **CGPA: 8.6 / 10** |
+| **BCA** – Bachelor of Computer Applications | Shri Shivaji Science College, Nagpur | **64%** |
+
+---
+
+### 🏅 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
+  <img src="https://img.shields.io/badge/Oracle-OCI_2025_GenAI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI GenAI" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh374&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=saurabh374&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh374&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=saurabh374&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh374&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh374&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🧭 Quick Facts
 
-- 🧠 I love solving complex UI and architecture problems  
-- 🌍 Currently learning more about **serverless** & **AWS CDK**  
-- 💬 Ask me about React, Node.js, CI/CD, or building scalable web apps  
-- 🕹️ Hobbies: Tech blogging, exploring new tools, and gaming 🎮  
+- 🏗️ Love tackling complex **architecture problems** and system design challenges
+- 🤖 Exploring **Generative AI integrations** and LLM-powered developer tools
+- ☁️ Deep-diving into **AWS CDK**, serverless, and distributed queueing systems
+- 💬 Ask me about **React**, **Node.js**, **microservices**, **CI/CD**, or **BFF architecture**
+- 🕹️ Hobbies: Tech exploration, system design discussions, and gaming 🎮
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:patilsaurabh1902@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/iamsaurabhp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/saurabh374"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://saurabh374.github.io"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=github-pages&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i> 😄
+  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=80&section=footer" alt="Footer" />
 </p>

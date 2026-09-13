@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://saurabh374.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://saurabh374.github.io/assets/Saurabh_Patil_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-0f766e?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
+  <a href="https://iamsaurabhp.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://iamsaurabhp.github.io/assets/Saurabh_Patil_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-0f766e?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
   <a href="https://linkedin.com/in/iamsaurabhp/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -56,9 +56,9 @@ developer mentoring.
 
 | Project | Engineering focus | Links |
 | --- | --- | --- |
-| **Chatify** | User, mail, and chat services; passwordless OTP; RabbitMQ; Redis; Socket.IO; MongoDB; Cloudinary | [Repository](https://github.com/saurabh374/Chatify) |
-| **GTA VI Landing Page** | Scroll-triggered GSAP timelines, pinned scenes, synchronized video, responsive React UI | [Repository](https://github.com/saurabh374/gta_vi_landing) · [Live demo](https://saurabh374.github.io/gta_vi_landing/) |
-| **Portfolio** | Semantic HTML, responsive CSS, bilingual content, themes, accessible navigation, downloadable resume | [Repository](https://github.com/saurabh374/saurabh374.github.io) · [Live site](https://saurabh374.github.io/) |
+| **Chatify** | User, mail, and chat services; passwordless OTP; RabbitMQ; Redis; Socket.IO; MongoDB; Cloudinary | [Repository](https://github.com/iamsaurabhp/Chatify) |
+| **GTA VI Landing Page** | Scroll-triggered GSAP timelines, pinned scenes, synchronized video, responsive React UI | [Repository](https://github.com/iamsaurabhp/gta_vi_landing) · [Live demo](https://iamsaurabhp.github.io/gta_vi_landing/) |
+| **Portfolio** | Semantic HTML, responsive CSS, bilingual content, themes, accessible navigation, downloadable resume | [Repository](https://github.com/iamsaurabhp/iamsaurabhp.github.io) · [Live site](https://iamsaurabhp.github.io/) |
 
 ## 🧭 Experience
 
@@ -96,4 +96,4 @@ focused on application modernization and cloud delivery.
 
 **[Email](mailto:patilsaurabh1902@gmail.com) ·
 [LinkedIn](https://linkedin.com/in/iamsaurabhp/) ·
-[Portfolio](https://saurabh374.github.io/)**
+[Portfolio](https://iamsaurabhp.github.io/)**

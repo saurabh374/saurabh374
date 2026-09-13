@@ -1,16 +1,14 @@
-<p align="center">
-  <img src="./assets/github-profile-banner.png" alt="Abstract cloud and application architecture" width="100%" />
-</p>
-
 <h1 align="center">Saurabh Patil</h1>
 
 <p align="center">
-  <strong>Associate Solution Architect · Full-Stack Engineer</strong>
+  <strong>Associate Solution Architect · Full-Stack Engineer</strong><br />
+  Modernizing enterprise applications with React, Node.js, data systems, and AWS
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-26d9b0?style=flat-square" alt="5+ years of experience" />
-  <img src="https://img.shields.io/badge/Focus-Application%20Modernization-4988ff?style=flat-square" alt="Application modernization" />
+  <img src="https://img.shields.io/badge/React%20%2B%20Node.js-Architecture-4988ff?style=flat-square" alt="React and Node.js architecture" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Delivery-f59e0b?style=flat-square" alt="AWS cloud delivery" />
   <img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-7d67e8?style=flat-square" alt="Nagpur, India" />
 </p>
 

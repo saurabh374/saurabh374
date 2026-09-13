@@ -94,6 +94,6 @@ Feb 2020 – Oct 2021
 I am open to senior full-stack, technical lead, and solution architecture roles
 focused on application modernization and cloud delivery.
 
-**[Email](mailto:patilsaurabh1902@gmail.com) ·
+**[Email](mailto:iamsaurabhp.work@gmail.com) ·
 [LinkedIn](https://linkedin.com/in/iamsaurabhp/) ·
 [Portfolio](https://iamsaurabhp.github.io/)**
